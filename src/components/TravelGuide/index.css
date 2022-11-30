@@ -1,0 +1,36 @@
+.container {
+  background-color: #eef4f7;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  width: 100%;
+}
+
+.heading {
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: 25px;
+  border-bottom: 1px solid #52bbf0;
+}
+
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.travel-items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-left: 20px;
+}
+
+.travel {
+  width: 100%;
+}
